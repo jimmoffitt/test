@@ -1,5 +1,5 @@
-# test - branch-1
+# test - MAIN branch
 just a test
 
 
-This is the branch-1
+This is the MAIN branch
